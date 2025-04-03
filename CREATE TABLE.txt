@@ -1,3 +1,17 @@
+01647399- Natalia Lorrana da Silva Gomes
+
+01381794 - Julio César Lima da Silva
+
+01752005 Gabriel Quirino A. C.
+
+01718443 Jean Állerson Cavalcanti
+
+01732719 - Lucas Antônio dos Santos Soares
+
+3 periodo, noite
+
+
+
 CREATE TABLE Cliente (
     Id_cliente INT PRIMARY KEY,
     Nome VARCHAR(125),
